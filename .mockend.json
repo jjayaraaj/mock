@@ -1,8 +1,8 @@
 {
-  "User": [
+  "users": [
       {
           "id": "1",
-          "subscripition": "Advanced EUR Yearlyas",
+          "subscripition": "Advanced EUR Year",
           "subscripitionId": "AzqYYhSq94RREAgl",
           "customer": "Zeus Automotive Inc",
           "customerEmail": "Jennywillson@goibibo.com",
@@ -82,6 +82,56 @@
         },
         {
         "id": "9",
+        "subscripition": "Metered Test Plan USD Monthly",
+        "subscripitionId": "AzqYRPTAzXtOs362",
+        "customer": "Jirav",
+        "customerEmail": "amyjirav@test.com",
+        "mrr": "475.00",
+        "startedOn": "06 Jul 2022",
+        "nextRenewal": "06 Aug 2022"
+        },
+    {
+      "id": "10",
+      "subscripition": "Metered Test Plan USD Monthly",
+      "subscripitionId": "AzqYRPTAzXtOs362",
+      "customer": "Jirav",
+      "customerEmail": "amyjirav@test.com",
+      "mrr": "475.00",
+      "startedOn": "06 Jul 2022",
+      "nextRenewal": "06 Aug 2022"
+    },
+    {
+      "id": "11",
+      "subscripition": "Metered Test Plan USD Monthly",
+      "subscripitionId": "AzqYRPTAzXtOs362",
+      "customer": "Jirav",
+      "customerEmail": "amyjirav@test.com",
+      "mrr": "475.00",
+      "startedOn": "06 Jul 2022",
+      "nextRenewal": "06 Aug 2022"
+      },
+      {
+        "id": "12",
+        "subscripition": "Metered Test Plan USD Monthly",
+        "subscripitionId": "AzqYRPTAzXtOs362",
+        "customer": "Jirav",
+        "customerEmail": "amyjirav@test.com",
+        "mrr": "475.00",
+        "startedOn": "06 Jul 2022",
+        "nextRenewal": "06 Aug 2022"
+        },
+        {
+        "id": "13",
+        "subscripition": "Metered Test Plan USD Monthly",
+        "subscripitionId": "AzqYRPTAzXtOs362",
+        "customer": "Jirav",
+        "customerEmail": "amyjirav@test.com",
+        "mrr": "475.00",
+        "startedOn": "06 Jul 2022",
+        "nextRenewal": "06 Aug 2022"
+        },
+        {
+        "id": "14",
         "subscripition": "Metered Test Plan USD Monthly",
         "subscripitionId": "AzqYRPTAzXtOs362",
         "customer": "Jirav",
