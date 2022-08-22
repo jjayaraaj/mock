@@ -1,161 +1,161 @@
 {
-  "users": [
-      {
-          "id": "1",
-          "subscripition": "Advanced EUR Year",
-          "subscripitionId": "AzqYYhSq94RREAgl",
-          "customer": "Zeus Automotive Inc",
-          "customerEmail": "Jennywillson@goibibo.com",
-          "mrr": "12.99,00",
-          "startedOn": "1-Aug-2021",
-          "nextRenewal": "1-Aug-2021"
-      },
-      {
-          "id": "2",
-          "subscripition": "Scale",
-          "subscripitionId": "169mCRSq4Xzo1PS0",
-          "customer": "Freshworks",
-          "customerEmail": "Jennywillson@freshworks.com",
-          "mrr": "$16.67",
-          "startedOn": "28 Nov 2021",
-          "nextRenewal": "13 Dec 2022"
-      },
-      {
-          "id": "3",
-          "subscripition": "Gold Plan USD Monthly",
-          "subscripitionId": "AzyzhhTC8rV6YXWl",
-          "customer": "Shashank Suman",
-          "customerEmail": "shashank.suman@chargebee.com",
+    "users": [
+        {
+            "id": "1",
+            "subscripition": "Advanced EUR Year",
+            "subscripitionId": "AzqYYhSq94RREAgl",
+            "customer": "Zeus Automotive Inc",
+            "customerEmail": "Jennywillson@goibibo.com",
+            "mrr": "12.99,00",
+            "startedOn": "1-Aug-2021",
+            "nextRenewal": "1-Aug-2021",
+            "status": "active"
+          
+        },
+        {
+            "id": "2",
+            "subscripition": "Scale",
+            "subscripitionId": "169mCRSq4Xzo1PS0",
+            "customer": "Freshworks",
+            "customerEmail": "Jennywillson@freshworks.com",
+            "mrr": "$16.67",
+            "startedOn": "28 Nov 2021",
+            "nextRenewal": "13 Dec 2022",
+            "status": "active"
+        },
+        {
+            "id": "3",
+            "subscripition": "Gold Plan USD Monthly",
+            "subscripitionId": "AzyzhhTC8rV6YXWl",
+            "customer": "Shashank Suman",
+            "customerEmail": "shashank.suman@chargebee.com",
+            "mrr": "98.00",
+            "startedOn": "20 Jul 2022",
+            "nextRenewal": "20 Aug 2022",
+            "status": "active"
+        },
+        {
+          "id": "4",
+          "subscripition": "Dodgy Plan USD Monthly",
+          "subscripitionId": "AzqYRmTBO4uQG3jq",
+          "customer": "Jason Momoa",
+          "customerEmail": "jason@json.com",
           "mrr": "98.00",
-          "startedOn": "20 Jul 2022",
-          "nextRenewal": "20 Aug 2022"
+          "startedOn": "12 Jul 2022",
+          "nextRenewal": "12 Aug 2022",
+          "status": "active"
       },
       {
-        "id": "4",
-        "subscripition": "Dodgy Plan USD Monthly",
-        "subscripitionId": "AzqYRmTBO4uQG3jq",
-        "customer": "Jason Momoa",
-        "customerEmail": "jason@json.com",
-        "mrr": "98.00",
-        "startedOn": "12 Jul 2022",
-        "nextRenewal": "12 Aug 2022"
-    },
-    {
-      "id": "5",
-      "subscripition": "Metered Test Plan USD Monthly",
-      "subscripitionId": "AzqYRPTAzXtOs362",
-      "customer": "Jirav",
-      "customerEmail": "amyjirav@test.com",
-      "mrr": "475.00",
-      "startedOn": "06 Jul 2022",
-      "nextRenewal": "06 Aug 2022"
-    },
-    {
-      "id": "6",
-      "subscripition": "Metered Test Plan USD Monthly",
-      "subscripitionId": "AzqYRPTAzXtOs362",
-      "customer": "Jirav",
-      "customerEmail": "amyjirav@test.com",
-      "mrr": "475.00",
-      "startedOn": "06 Jul 2022",
-      "nextRenewal": "06 Aug 2022"
+        "id": "5",
+        "subscripition": "Metered Test Plan USD Monthly",
+        "subscripitionId": "AzqYRPTAzXtOs362",
+        "customer": "Jirav",
+        "customerEmail": "amyjirav@test.com",
+        "mrr": "475.00",
+        "startedOn": "06 Jul 2022",
+        "nextRenewal": "06 Aug 2022",
+        "status": "In Trail"
       },
       {
-        "id": "7",
+        "id": "6",
         "subscripition": "Metered Test Plan USD Monthly",
         "subscripitionId": "AzqYRPTAzXtOs362",
         "customer": "Jirav",
         "customerEmail": "amyjirav@test.com",
         "mrr": "475.00",
         "startedOn": "06 Jul 2022",
-        "nextRenewal": "06 Aug 2022"
+        "nextRenewal": "06 Aug 2022",
+        "status": "In Trail"
         },
         {
-        "id": "8",
+          "id": "7",
+          "subscripition": "Metered Test Plan USD Monthly",
+          "subscripitionId": "AzqYRPTAzXtOs362",
+          "customer": "Jirav",
+          "customerEmail": "amyjirav@test.com",
+          "mrr": "475.00",
+          "startedOn": "06 Jul 2022",
+          "nextRenewal": "06 Aug 2022",
+          "status": "Non Renewing"
+          },
+          {
+          "id": "8",
+          "subscripition": "Metered Test Plan USD Monthly",
+          "subscripitionId": "AzqYRPTAzXtOs362",
+          "customer": "Jirav",
+          "customerEmail": "amyjirav@test.com",
+          "mrr": "475.00",
+          "startedOn": "06 Jul 2022",
+          "nextRenewal": "06 Aug 2022",
+          "status": "Non Renewing"
+          },
+          {
+          "id": "9",
+          "subscripition": "Metered Test Plan USD Monthly",
+          "subscripitionId": "AzqYRPTAzXtOs362",
+          "customer": "Jirav",
+          "customerEmail": "amyjirav@test.com",
+          "mrr": "475.00",
+          "startedOn": "06 Jul 2022",
+          "nextRenewal": "06 Aug 2022",
+          "status": "Cancelled"
+          },
+      {
+        "id": "10",
         "subscripition": "Metered Test Plan USD Monthly",
         "subscripitionId": "AzqYRPTAzXtOs362",
         "customer": "Jirav",
         "customerEmail": "amyjirav@test.com",
         "mrr": "475.00",
         "startedOn": "06 Jul 2022",
-        "nextRenewal": "06 Aug 2022"
-        },
-        {
-        "id": "9",
-        "subscripition": "Metered Test Plan USD Monthly",
-        "subscripitionId": "AzqYRPTAzXtOs362",
-        "customer": "Jirav",
-        "customerEmail": "amyjirav@test.com",
-        "mrr": "475.00",
-        "startedOn": "06 Jul 2022",
-        "nextRenewal": "06 Aug 2022"
-        },
-    {
-      "id": "10",
-      "subscripition": "Metered Test Plan USD Monthly",
-      "subscripitionId": "AzqYRPTAzXtOs362",
-      "customer": "Jirav",
-      "customerEmail": "amyjirav@test.com",
-      "mrr": "475.00",
-      "startedOn": "06 Jul 2022",
-      "nextRenewal": "06 Aug 2022"
-    },
-    {
-      "id": "11",
-      "subscripition": "Metered Test Plan USD Monthly",
-      "subscripitionId": "AzqYRPTAzXtOs362",
-      "customer": "Jirav",
-      "customerEmail": "amyjirav@test.com",
-      "mrr": "475.00",
-      "startedOn": "06 Jul 2022",
-      "nextRenewal": "06 Aug 2022"
+        "nextRenewal": "06 Aug 2022",
+        "status": "Cancelled"
       },
       {
-        "id": "12",
+        "id": "11",
         "subscripition": "Metered Test Plan USD Monthly",
         "subscripitionId": "AzqYRPTAzXtOs362",
         "customer": "Jirav",
         "customerEmail": "amyjirav@test.com",
         "mrr": "475.00",
         "startedOn": "06 Jul 2022",
-        "nextRenewal": "06 Aug 2022"
+        "nextRenewal": "06 Aug 2022",
+        "status": "Paused"
         },
         {
-        "id": "13",
-        "subscripition": "Metered Test Plan USD Monthly",
-        "subscripitionId": "AzqYRPTAzXtOs362",
-        "customer": "Jirav",
-        "customerEmail": "amyjirav@test.com",
-        "mrr": "475.00",
-        "startedOn": "06 Jul 2022",
-        "nextRenewal": "06 Aug 2022"
-        },
-        {
-        "id": "14",
-        "subscripition": "Metered Test Plan USD Monthly",
-        "subscripitionId": "AzqYRPTAzXtOs362",
-        "customer": "Jirav",
-        "customerEmail": "amyjirav@test.com",
-        "mrr": "475.00",
-        "startedOn": "06 Jul 2022",
-        "nextRenewal": "06 Aug 2022"
-        }
-     
-
-  ],
-   "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+          "id": "12",
+          "subscripition": "Metered Test Plan USD Monthly",
+          "subscripitionId": "AzqYRPTAzXtOs362",
+          "customer": "Jirav",
+          "customerEmail": "amyjirav@test.com",
+          "mrr": "475.00",
+          "startedOn": "06 Jul 2022",
+          "nextRenewal": "06 Aug 2022",
+          "status": "Paused"
+          },
+          {
+          "id": "13",
+          "subscripition": "Metered Test Plan USD Monthly",
+          "subscripitionId": "AzqYRPTAzXtOs362",
+          "customer": "Jirav",
+          "customerEmail": "amyjirav@test.com",
+          "mrr": "475.00",
+          "startedOn": "06 Jul 2022",
+          "nextRenewal": "06 Aug 2022",
+          "status": "In Future"
+          },
+          {
+          "id": "14",
+          "subscripition": "Metered Test Plan USD Monthly",
+          "subscripitionId": "AzqYRPTAzXtOs362",
+          "customer": "Jirav",
+          "customerEmail": "amyjirav@test.com",
+          "mrr": "475.00",
+          "startedOn": "06 Jul 2022",
+          "nextRenewal": "06 Aug 2022",
+          "status": "In Future" 
+          }
+       
+  
+    ]
   }
-}
